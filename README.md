@@ -1,5 +1,14 @@
 # wallet
-数字钱包
+在线体验
+
+h5
+[http://h5.diandianwallet.com](http://h5.diandianwallet.com)
+自己注册即可
+
+管理后台
+[http://admin.diandianwallet.com](http://admin.diandianwallet.com)
+demo/123456
+
 点点数字钱包是一款基于波场币（TRX）开发的springboot java版本的数字钱包系统，可以帮助用户快速完成波场币的购买、售卖、提币。同时，为了便于第3方App或Web系统与数字钱包余额相互转化，通过接口，可以查询第3方的余额、使用钱包给第3方充值或从第3方提现到数字货币钱包。
 目前系统的主要功能：
 1、用户注册登录、第3方自动登录

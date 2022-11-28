@@ -1,7 +1,3 @@
----
-typora-root-url: ./
----
-
 # wallet
 在线体验
 
@@ -9,9 +5,7 @@ h5
 [http://h5.diandianwallet.com](http://h5.diandianwallet.com)
 自己注册即可
 
-<img src="04_pic/h5.png" alt="h5" style="zoom:50%;" />
-
-
+![image](https://github.com/diandianwallet/wallet/blob/main/04_pic/h5.png)
 
 
 
@@ -58,20 +52,20 @@ demo/123456
 
 H5截图
 
-<img src=".\04_pic\h5-001.png" alt="h5-001" style="zoom: 33%;" />
+![image](https://github.com/diandianwallet/wallet/blob/main/04_pic/h5-001.png)
 
-<img src=".\04_pic\h5-002.png" alt="h5-002" style="zoom: 33%;" />
+![image](https://github.com/diandianwallet/wallet/blob/main/04_pic/h5-002.png)
 
-<img src=".\04_pic\h5-003.png" alt="h5-003" style="zoom: 33%;" />
+![image](https://github.com/diandianwallet/wallet/blob/main/04_pic/h5-003.png)
 
 
 
 管理后台截图
 
-![admin-001](.\04_pic\admin-001.png)
+![image](https://github.com/diandianwallet/wallet/blob/main/04_pic/admin-001.png)
 
-![admin-001](.\04_pic\admin-002.png)
+![image](https://github.com/diandianwallet/wallet/blob/main/04_pic/admin-002.png)
 
-![admin-001](.\04_pic\admin-003.png)
+![image](https://github.com/diandianwallet/wallet/blob/main/04_pic/admin-003.png)
 
-![admin-001](.\04_pic\admin-004.png)
+![image](https://github.com/diandianwallet/wallet/blob/main/04_pic/admin-004.png)

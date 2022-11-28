@@ -5,7 +5,9 @@ h5
 [http://h5.diandianwallet.com](http://h5.diandianwallet.com)
 自己注册即可
 
-<img src=".\04_pic\h5.png" alt="h5" style="zoom:50%;" />
+<img src="04_pic/h5.png" alt="h5" style="zoom:50%;" />
+
+
 
 
 

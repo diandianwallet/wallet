@@ -96,3 +96,10 @@ demo/123456
 ![image](https://github.com/diandianwallet/wallet/blob/main/04_pic/admin-003.png)
 
 ![image](https://github.com/diandianwallet/wallet/blob/main/04_pic/admin-004.png)
+
+## 建议或改进
+
+你有什么建议或改进可以给我发邮件
+
+ligang20005@outlook.com
+

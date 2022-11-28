@@ -1,3 +1,7 @@
+---
+typora-root-url: ./
+---
+
 # wallet
 在线体验
 
